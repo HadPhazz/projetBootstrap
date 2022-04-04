@@ -32,6 +32,12 @@
   padding: 0;
 }
 
+.companylogoDetail{
+  width: 100px;
+  height: 100px;
+  padding: 0;
+}
+
 #getStartedButton{
   color : #FFF;
 }
@@ -43,4 +49,8 @@
 
 #adress{
   font-size: 15px;
+}
+
+#formValidationButton{
+  width: 100%;
 }
