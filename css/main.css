@@ -54,3 +54,10 @@
 #formValidationButton{
   width: 100%;
 }
+
+.text-decoration{
+ text-decoration-thickness: 5px;
+text-decoration-line :underline;
+}
+
+#more {display: none;}
