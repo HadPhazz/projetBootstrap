@@ -23,16 +23,42 @@
   color: white;
 }
 
-.card img{
-  height:150px;
-  width:100%;
+a, footer p, select{
+  font-size: 80%;
 }
 
-.card-shadow{
-  box-shadow: 2px 2px 7px 0px rgba(0,0,0,0.44);
- border: none;
-}
 
 p a {
   color: grey;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration:underline;
+}
+
+div a{
+  text-decoration: none;
+  color:black;
+}
+.color-btn{
+  border-radius: 0;
+  background-color: #559987;
+  border-color: #559987;
+
+}
+.card-block:hover{
+  box-shadow: 2px 2px 7px 0px rgba(0,0,0,0.44);
+}
+.img-fluid{
+  height: 65%;
+}
+
+.card{
+  height: 190px;
+}
+.card-body{
+  font-size: 12px;
+  font-weight: bold;
+  padding-bottom: 1%;
+
 }
