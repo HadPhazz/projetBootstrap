@@ -55,9 +55,40 @@
   width: 100%;
 }
 
-.text-decoration{
- text-decoration-thickness: 5px;
-text-decoration-line :underline;
-}
+
 
 #more {display: none;}
+
+#form-card, #detail-card{
+height :auto
+}
+
+.detail-a{
+  font-size: 100%;
+}
+
+.menu-a{
+  color: grey;
+}
+.menu-a:hover{
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.detail-a:hover{
+ color: black;
+cursor: pointer;
+}
+.btn-width{
+  width: 11%;
+
+}
+.btn-share-save:hover{
+background-color:	#F8F8F8;
+color:black;
+
+}
+
+#myBtn:hover{
+  cursor: pointer;
+}
