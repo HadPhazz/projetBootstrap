@@ -70,6 +70,7 @@ height :auto
 .menu-a{
   color: grey;
 }
+
 .menu-a:hover{
   color: black;
   text-decoration: none;
@@ -86,7 +87,11 @@ cursor: pointer;
 .btn-share-save:hover{
 background-color:	#F8F8F8;
 color:black;
+}
 
+.title_a:hover{
+  text-decoration: none;
+  color : #28a745;
 }
 
 #myBtn:hover{
